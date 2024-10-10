@@ -1,3 +1,15 @@
 import torch
 print(torch.__version__)
 print(torch.cuda.is_available())
+print(11111)
+print(222)
+print(222)
+print(222)
+print(222)
+print(222)
+print(222)
+print(222)
+print(222)
+print(222)
+print(222)
+
