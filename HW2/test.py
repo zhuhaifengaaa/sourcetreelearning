@@ -6,3 +6,4 @@ result = re.sub(r"\s", "", text)
 
 print(result)
 # 输出："The;quick;brown;fox;jumps;over;the;lazy;dog"
+print(222)
